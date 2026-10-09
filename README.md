@@ -44,8 +44,8 @@ My choices:
 2. Game-Over screen with saved results - I want the results to save and show when the game is over, I don't have any of that now.
 
 ## Testing
-Test actions:
-Expected result:
+Test actions: Getting bosses to show up when you have exceeded a certain score.
+Expected result: A boss showing up.
 Actual result:
 
 ## Project Files and Assets
