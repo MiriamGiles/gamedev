@@ -25,24 +25,23 @@ Follows your mouse and to shoot lasers you click the mouse, no keyboard.
 ## Required Foundation — 2 Points
 
 ### Three Power-Up Types
-1. [Name] — [Effect, duration if relevant, and status]
-2. [Name] — [Effect, duration if relevant, and status]
-3. [Name] — [Effect, duration if relevant, and status]
+1. Laser Speed — The speed after you shoot the lasers goes up.
+2. Health — The health goes up by 100.
+3. Laser Amount — The number of lasers being shot goes up till it hits 3 lasers at a time.
 
 ### Levels
-[Explain what triggers progression and what changes
-between levels. State the current implementation status.]
+Gaining powerups gives you more health and the asteroids hitting you loses health. Missing the asteroid entirely keeps count and if exceeds 9 game ends.
 
 ## My Chosen Additional Systems
 Choose at least two:
-- Firing enemies
+- Firing Enemies
 - Boss
 - Game statistics
 - Game-over screen with saved results
 
 My choices:
-1. [System — intended behavior and current status]
-2. [System — intended behavior and current status]
+1. Bosses - I want there to be a final boss, I don't have any bosses now.
+2. Game-Over screen with saved results - I want the results to save and show when the game is over, I don't have any of that now.
 
 ## Testing
 Test actions:
@@ -57,7 +56,7 @@ Asset credits:
 [Credit outside assets and identify assets you created.]
 
 ## Known Issues
-[Describe unfinished behavior or known bugs honestly.]
+I created fixed code, but I didn't transfer it over.
 
 ## Next Development Task
-[Name one specific behavior you will build or fix next.]
+fixing the graphics.
