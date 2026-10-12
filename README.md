@@ -4,7 +4,7 @@
 
 ### SpaceGame
 
-![SpaceGame](https://github.com/MiriamGiles/gamedev/blob/main/images/spacegame.png?raw=true)
+![SpaceGame](https://github.com/MiriamGiles/gamedev/blob/main/images/SpaceGame.png?raw=true)
 
 [Link for source code](https://github.com/MiriamGiles/gamedev/tree/main/src/SpaceGame2)
 
