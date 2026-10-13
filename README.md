@@ -17,7 +17,7 @@ Processing version: [4.0.1]
 Main sketch and project folder: [SpaceGame]
 Required libraries, if any: [Sound, but it doesn't work]
 
-[Click link to source code, click SpaceGame, then SpaceGame.pde]
+[Click Code, download zip file, open SpaceGame.pde]
 
 ## Controls
 Follows your mouse and to shoot lasers you click the mouse, no keyboard.
