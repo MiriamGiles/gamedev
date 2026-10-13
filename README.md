@@ -56,7 +56,7 @@ Asset credits:
 [Credit outside assets and identify assets you created.]
 
 ## Known Issues
-I created fixed code, but I didn't transfer it over.
+Seeing a difference between all 3 power ups.
 
 ## Next Development Task
 fixing the graphics.
