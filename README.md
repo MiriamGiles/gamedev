@@ -14,8 +14,8 @@ Object oriented game using images and sounds with multiple enemies and powerups.
 ## How to Run
 Built with Processing.
 Processing version: [4.0.1]
-Main sketch and project folder: [Names]
-Required libraries, if any: [List or write None]
+Main sketch and project folder: [SpaceGame]
+Required libraries, if any: [Sound, but it doesn't work]
 
 [Click link to source code, click SpaceGame, then SpaceGame.pde]
 
@@ -26,7 +26,7 @@ Follows your mouse and to shoot lasers you click the mouse, no keyboard.
 
 ### Three Power-Up Types
 1. Laser Speed — The speed after you shoot the lasers goes up.
-2. Health — The health goes up by 100.
+2. Health — The health goes up by 10.
 3. Laser Amount — The number of lasers being shot goes up till it hits 3 lasers at a time.
 
 ### Levels
