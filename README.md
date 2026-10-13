@@ -17,7 +17,7 @@ Processing version: [4.0.1]
 Main sketch and project folder: [Names]
 Required libraries, if any: [List or write None]
 
-[Go to home page on my github page and click code, download zip file, uncompress, and open up the spacegame.pde to start]
+[Click link to source code, click SpaceGame, then SpaceGame.pde]
 
 ## Controls
 Follows your mouse and to shoot lasers you click the mouse, no keyboard.
