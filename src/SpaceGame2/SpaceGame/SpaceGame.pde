@@ -73,7 +73,7 @@ void draw() {
       //  Asteroid a =  asteroids.get(j);
       if (pu.isHit(s1)) {
         if (pu.type == 'h') {
-          s1.health += 100;
+          s1.health += 10;
           powerups.remove(pu);
         } else if (pu.type == 's') {
           laserSpeed = laserSpeed +1;
